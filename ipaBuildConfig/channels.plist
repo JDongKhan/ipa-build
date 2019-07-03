@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>project_name</key>
+	<string>yourProjectName</string>
+	<key>scheme_name</key>
+	<string>yourSchemeName</string>
+	<key>appstore</key>
+	<dict>
+		<key>account</key>
+		<string></string>
+		<key>password</key>
+		<string></string>
+		<key>development_mode</key>
+		<string>Release</string>
+		<key>exportOptionsPlistName</key>
+		<string>exportAppstore.plist</string>
+	</dict>
+	<key>fir</key>
+	<dict>
+		<key>account</key>
+		<string></string>
+		<key>development_mode</key>
+		<string>Release</string>
+		<key>exportOptionsPlistName</key>
+		<string>exportAppstore.plist</string>
+	</dict>
+	<key>pgy</key>
+	<dict>
+		<key>account</key>
+		<string></string>
+		<key>password</key>
+		<string></string>
+		<key>development_mode</key>
+		<string>Release</string>
+		<key>exportOptionsPlistName</key>
+		<string>exportAppstore.plist</string>
+	</dict>
+	<key>local</key>
+	<dict>
+		<key>development_mode</key>
+		<string>Release</string>
+		<key>exportOptionsPlistName</key>
+		<string>exportAppstore.plist</string>
+	</dict>
+</dict>
+</plist>
